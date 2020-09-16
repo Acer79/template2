@@ -1,0 +1,1422 @@
+{
+    "manifest_version": "1.0.10",
+    "title": "Ristoly - Restaurant",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Home 1 - Ristoly",
+            "screenshot": "screenshots\/home-1-ristoly.jpg",
+            "source": "templates\/home-1-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 - Ristoly",
+            "screenshot": "screenshots\/home-2-ristoly.jpg",
+            "source": "templates\/home-2-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer (Pro) - Ristoly",
+            "screenshot": "screenshots\/footer-pro-ristoly.jpg",
+            "source": "templates\/footer-pro-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/footer-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Navigation (Pro) - Ristoly",
+            "screenshot": "screenshots\/navigation-pro-ristoly.jpg",
+            "source": "templates\/navigation-pro-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/header-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact (Pro) - Ristoly",
+            "screenshot": "screenshots\/contact-pro-ristoly.jpg",
+            "source": "templates\/contact-pro-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/contact-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Menu 2 - Ristoly",
+            "screenshot": "screenshots\/menu-2-ristoly.jpg",
+            "source": "templates\/menu-2-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/menu-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 1 - Ristoly",
+            "screenshot": "screenshots\/menu-1-ristoly.jpg",
+            "source": "templates\/menu-1-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/menu-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Title - Ristoly",
+            "screenshot": "screenshots\/page-title-ristoly.jpg",
+            "source": "templates\/page-title-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/page-title\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials - Ristoly",
+            "screenshot": "screenshots\/testimonials-ristoly.jpg",
+            "source": "templates\/testimonials-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu Detail - Ristoly",
+            "screenshot": "screenshots\/menu-detail-ristoly.jpg",
+            "source": "templates\/menu-detail-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/menu-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery - Ristoly",
+            "screenshot": "screenshots\/gallery-ristoly.jpg",
+            "source": "templates\/gallery-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/gallery\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs - Ristoly",
+            "screenshot": "screenshots\/faqs-ristoly.jpg",
+            "source": "templates\/faqs-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/faqs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Chefs - Ristoly",
+            "screenshot": "screenshots\/chefs-ristoly.jpg",
+            "source": "templates\/chefs-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/chefs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About - Ristoly",
+            "screenshot": "screenshots\/about-ristoly.jpg",
+            "source": "templates\/about-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 3 - Ristoly",
+            "screenshot": "screenshots\/menu-3-ristoly.jpg",
+            "source": "templates\/menu-3-ristoly.json",
+            "preview_url": "https:\/\/ristoly.progressionstudios.com\/template-kit\/menu-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "juicy-beef-steak-served-at-restaurant-P843EMM.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/juicy-beef-steak-served-at-restaurant-P843EMM-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                }
+            ],
+            "filesize": 231599,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P843EMM"
+        },
+        {
+            "filename": "celebrating-with-a-juicy-beef-burger-in-a-NCQB46D.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/celebrating-with-a-juicy-beef-burger-in-a-NCQB46D.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                }
+            ],
+            "filesize": 81005,
+            "dimensions": [
+                570,
+                603
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCQB46D"
+        },
+        {
+            "filename": "home-v2-icon-1.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-v2-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/footer-pro-ristoly.json",
+                    "name": "Footer (Pro) - Ristoly"
+                }
+            ],
+            "filesize": 3701,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-v2-icon-2.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-v2-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/footer-pro-ristoly.json",
+                    "name": "Footer (Pro) - Ristoly"
+                }
+            ],
+            "filesize": 5002,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-v2-icon-3.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-v2-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/footer-pro-ristoly.json",
+                    "name": "Footer (Pro) - Ristoly"
+                }
+            ],
+            "filesize": 3838,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients-in-chinese-food-restaurant-QTYGHWA.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/clients-in-chinese-food-restaurant-QTYGHWA-600x713.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 130215,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QTYGHWA"
+        },
+        {
+            "filename": "logoipsum.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/logoipsum.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 11500,
+            "dimensions": [
+                500,
+                118
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "asian-cook-in-the-restaurant-VL75X4Q.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/asian-cook-in-the-restaurant-VL75X4Q.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 26624,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VL75X4Q"
+        },
+        {
+            "filename": "asian-waitress-in-restaurant-WSP9QYK.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/asian-waitress-in-restaurant-WSP9QYK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 24415,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WSP9QYK"
+        },
+        {
+            "filename": "profesional-waiter-in-restaurant-DBWT692.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/profesional-waiter-in-restaurant-DBWT692.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 25541,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DBWT692"
+        },
+        {
+            "filename": "barbeque-dish-grilled-meat-fish-sausages-and-NL8U23F-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/barbeque-dish-grilled-meat-fish-sausages-and-NL8U23F-1-600x242.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                }
+            ],
+            "filesize": 133602,
+            "dimensions": [
+                1400,
+                565
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NL8U23F"
+        },
+        {
+            "filename": "cool-young-businessman-PCNXZY6.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/cool-young-businessman-PCNXZY6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                }
+            ],
+            "filesize": 10533,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCNXZY6"
+        },
+        {
+            "filename": "restaurant-breakfast-with-warm-potato-salad-Q2UFGVP-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/restaurant-breakfast-with-warm-potato-salad-Q2UFGVP-1-600x490.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-3-ristoly.json",
+                    "name": "Menu 3 - Ristoly"
+                }
+            ],
+            "filesize": 126865,
+            "dimensions": [
+                857,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q2UFGVP"
+        },
+        {
+            "filename": "celebrating-with-a-juicy-beef-burger-in-a-NCQB46D.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/celebrating-with-a-juicy-beef-burger-in-a-NCQB46D-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 46774,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCQB46D"
+        },
+        {
+            "filename": "chef-in-restaurant-kitchen-SLB5X49.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/chef-in-restaurant-kitchen-SLB5X49-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 75464,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SLB5X49"
+        },
+        {
+            "filename": "exclusive-mousse-dessert-served-at-restaurant-RUV3ME4.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/exclusive-mousse-dessert-served-at-restaurant-RUV3ME4-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 98726,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RUV3ME4"
+        },
+        {
+            "filename": "greek-gyros-dish-on-a-black-dish-top-view-PRNA72N.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/greek-gyros-dish-on-a-black-dish-top-view-PRNA72N-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-detail-ristoly.json",
+                    "name": "Menu Detail - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 106065,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRNA72N"
+        },
+        {
+            "filename": "preparing-a-hamburger-in-a-restaurant-PUR2CS3.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/preparing-a-hamburger-in-a-restaurant-PUR2CS3-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 58727,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUR2CS3"
+        },
+        {
+            "filename": "sausages-on-a-hot-pan-in-a-restaurant-JV3SCA7.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/sausages-on-a-hot-pan-in-a-restaurant-JV3SCA7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-ristoly.json",
+                    "name": "Home 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-detail-ristoly.json",
+                    "name": "Menu Detail - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 64647,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JV3SCA7"
+        },
+        {
+            "filename": "grilled-shish-kebab-with-baked-potato-7PJ28TA.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/grilled-shish-kebab-with-baked-potato-7PJ28TA-600x364.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 125074,
+            "dimensions": [
+                1400,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7PJ28TA"
+        },
+        {
+            "filename": "hero-divider-1.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/hero-divider-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 4629,
+            "dimensions": [
+                200,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-divider-2.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/hero-divider-2-600x9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 2155,
+            "dimensions": [
+                1200,
+                18
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-element-left.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/hero-element-left.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 3923,
+            "dimensions": [
+                100,
+                201
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-element-right.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/hero-element-right.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 3976,
+            "dimensions": [
+                100,
+                201
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "minced-meat-kebab-in-a-pot-with-vegetables-and-QTWG8HK.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/minced-meat-kebab-in-a-pot-with-vegetables-and-QTWG8HK-600x713.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 223187,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QTWG8HK"
+        },
+        {
+            "filename": "exclusive-mousse-dessert-served-at-restaurant-KLRAP3U.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/exclusive-mousse-dessert-served-at-restaurant-KLRAP3U-600x691.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 146406,
+            "dimensions": [
+                964,
+                1110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLRAP3U"
+        },
+        {
+            "filename": "vegan-dish-NEXUZTY.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/vegan-dish-NEXUZTY-600x691.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 207415,
+            "dimensions": [
+                964,
+                1110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NEXUZTY"
+        },
+        {
+            "filename": "preparing-a-hamburger-in-a-restaurant-PUR2CS3.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/preparing-a-hamburger-in-a-restaurant-PUR2CS3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 10738,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUR2CS3"
+        },
+        {
+            "filename": "grilled-cilantro-chicken-skewers-PTCAW8E.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/grilled-cilantro-chicken-skewers-PTCAW8E.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 14159,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTCAW8E"
+        },
+        {
+            "filename": "restaurant-breakfast-with-warm-potato-salad-Q2UFGVP.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/restaurant-breakfast-with-warm-potato-salad-Q2UFGVP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 10986,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q2UFGVP"
+        },
+        {
+            "filename": "greek-gyros-dish-on-a-black-dish-top-view-PRNA72N.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/greek-gyros-dish-on-a-black-dish-top-view-PRNA72N.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 15199,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRNA72N"
+        },
+        {
+            "filename": "grilled-salmon-fish-steak-with-potato-onion-and-YRVMXCL.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/grilled-salmon-fish-steak-with-potato-onion-and-YRVMXCL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 15522,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YRVMXCL"
+        },
+        {
+            "filename": "exclusive-mousse-dessert-served-at-restaurant-KLRAP3U-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/exclusive-mousse-dessert-served-at-restaurant-KLRAP3U-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 12100,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLRAP3U"
+        },
+        {
+            "filename": "modern-restaurant-with-fireplace-PUQSBVB.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/modern-restaurant-with-fireplace-PUQSBVB-600x251.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 60837,
+            "dimensions": [
+                1400,
+                585
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUQSBVB"
+        },
+        {
+            "filename": "play-icon.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/play-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 1150,
+            "dimensions": [
+                106,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-icon-1.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 12173,
+            "dimensions": [
+                180,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-icon-2.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 16446,
+            "dimensions": [
+                180,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-icon-3.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/home-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-ristoly.json",
+                    "name": "Home 2 - Ristoly"
+                }
+            ],
+            "filesize": 13770,
+            "dimensions": [
+                180,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/02\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-pro-ristoly.json",
+                    "name": "Footer (Pro) - Ristoly"
+                },
+                {
+                    "source": "templates\/navigation-pro-ristoly.json",
+                    "name": "Navigation (Pro) - Ristoly"
+                }
+            ],
+            "filesize": 43278,
+            "dimensions": [
+                400,
+                138
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "barbeque-dish-grilled-meat-fish-sausages-and-NL8U23F.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/barbeque-dish-grilled-meat-fish-sausages-and-NL8U23F-600x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-pro-ristoly.json",
+                    "name": "Contact (Pro) - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                },
+                {
+                    "source": "templates\/page-title-ristoly.json",
+                    "name": "Page Title - Ristoly"
+                },
+                {
+                    "source": "templates\/testimonials-ristoly.json",
+                    "name": "Testimonials - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-detail-ristoly.json",
+                    "name": "Menu Detail - Ristoly"
+                },
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                },
+                {
+                    "source": "templates\/faqs-ristoly.json",
+                    "name": "FAQs - Ristoly"
+                },
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                },
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-3-ristoly.json",
+                    "name": "Menu 3 - Ristoly"
+                }
+            ],
+            "filesize": 213264,
+            "dimensions": [
+                1500,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NL8U23F"
+        },
+        {
+            "filename": "juicy-beef-steak-served-at-restaurant-P843EMM.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/juicy-beef-steak-served-at-restaurant-P843EMM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 11527,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P843EMM"
+        },
+        {
+            "filename": "sausages-on-a-hot-pan-in-a-restaurant-JV3SCA7-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/sausages-on-a-hot-pan-in-a-restaurant-JV3SCA7-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-3-ristoly.json",
+                    "name": "Menu 3 - Ristoly"
+                }
+            ],
+            "filesize": 56088,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JV3SCA7"
+        },
+        {
+            "filename": "greek-gyros-on-a-pita-bread-P3WTR9W-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/greek-gyros-on-a-pita-bread-P3WTR9W-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-2-ristoly.json",
+                    "name": "Menu 2 - Ristoly"
+                },
+                {
+                    "source": "templates\/menu-3-ristoly.json",
+                    "name": "Menu 3 - Ristoly"
+                }
+            ],
+            "filesize": 90366,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3WTR9W"
+        },
+        {
+            "filename": "greek-gyros-on-a-pita-bread-P3WTR9W.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/greek-gyros-on-a-pita-bread-P3WTR9W.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 15622,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3WTR9W"
+        },
+        {
+            "filename": "exclusive-mousse-dessert-served-at-restaurant-KLRAP3U.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/exclusive-mousse-dessert-served-at-restaurant-KLRAP3U-600x211.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 104733,
+            "dimensions": [
+                1600,
+                563
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLRAP3U"
+        },
+        {
+            "filename": "exclusive-mousse-dessert-served-at-restaurant-RUV3ME4-1.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/exclusive-mousse-dessert-served-at-restaurant-RUV3ME4-1-600x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 177248,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RUV3ME4"
+        },
+        {
+            "filename": "minced-meat-kebab-in-a-pot-with-vegetables-and-QTWG8HK.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/minced-meat-kebab-in-a-pot-with-vegetables-and-QTWG8HK-600x184.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-1-ristoly.json",
+                    "name": "Menu 1 - Ristoly"
+                }
+            ],
+            "filesize": 162732,
+            "dimensions": [
+                1600,
+                490
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QTWG8HK"
+        },
+        {
+            "filename": "fish-restaurant-menu-template-copy-space-PPXK7QW.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/fish-restaurant-menu-template-copy-space-PPXK7QW-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 106840,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPXK7QW"
+        },
+        {
+            "filename": "grilled-salmon-fish-steak-with-potato-onion-and-YRVMXCL.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/grilled-salmon-fish-steak-with-potato-onion-and-YRVMXCL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 126456,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YRVMXCL"
+        },
+        {
+            "filename": "yogurt-with-berries-and-granola-in-bowl-CZ59V2A.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/yogurt-with-berries-and-granola-in-bowl-CZ59V2A-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-ristoly.json",
+                    "name": "Gallery - Ristoly"
+                }
+            ],
+            "filesize": 104985,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CZ59V2A"
+        },
+        {
+            "filename": "apprentice-chef-3NYK4RZ.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/apprentice-chef-3NYK4RZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                }
+            ],
+            "filesize": 25047,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3NYK4RZ"
+        },
+        {
+            "filename": "asian-chef-with-dish-at-the-restaurant-AKEGJSC.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/asian-chef-with-dish-at-the-restaurant-AKEGJSC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                }
+            ],
+            "filesize": 20984,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AKEGJSC"
+        },
+        {
+            "filename": "female-chef-standing-with-arms-crossed-in-kitchen-GU598K6.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/female-chef-standing-with-arms-crossed-in-kitchen-GU598K6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                }
+            ],
+            "filesize": 20768,
+            "dimensions": [
+                400,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GU598K6"
+        },
+        {
+            "filename": "chefs-serving-dish-at-the-restaurant-UXS7ATF.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/chefs-serving-dish-at-the-restaurant-UXS7ATF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/chefs-ristoly.json",
+                    "name": "Chefs - Ristoly"
+                }
+            ],
+            "filesize": 37929,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UXS7ATF"
+        },
+        {
+            "filename": "happy-restaurant-team-P325MTH.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/happy-restaurant-team-P325MTH-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 46597,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P325MTH"
+        },
+        {
+            "filename": "meeting-place-in-restaurant-PQGQSCU.jpg",
+            "thumbnail_url": "https:\/\/ristoly.progressionstudios.com\/wp-content\/uploads\/2020\/03\/meeting-place-in-restaurant-PQGQSCU-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-ristoly.json",
+                    "name": "About - Ristoly"
+                }
+            ],
+            "filesize": 59679,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQGQSCU"
+        }
+    ]
+}
